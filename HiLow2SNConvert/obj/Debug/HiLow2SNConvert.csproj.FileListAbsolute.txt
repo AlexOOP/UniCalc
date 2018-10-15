@@ -1,0 +1,80 @@
+C:\Users\aleksandr.chanov\source\repos\HiLow2SNConvert\HiLow2SNConvert\bin\Debug\HiLow2SNConvert.exe.config
+C:\Users\aleksandr.chanov\source\repos\HiLow2SNConvert\HiLow2SNConvert\bin\Debug\HiLow2SNConvert.exe
+C:\Users\aleksandr.chanov\source\repos\HiLow2SNConvert\HiLow2SNConvert\bin\Debug\HiLow2SNConvert.pdb
+C:\Users\aleksandr.chanov\source\repos\HiLow2SNConvert\HiLow2SNConvert\obj\Debug\HiLow2SNConvert.csprojResolveAssemblyReference.cache
+C:\Users\aleksandr.chanov\source\repos\HiLow2SNConvert\HiLow2SNConvert\obj\Debug\HiLow2SNConvert.Form1.resources
+C:\Users\aleksandr.chanov\source\repos\HiLow2SNConvert\HiLow2SNConvert\obj\Debug\HiLow2SNConvert.Properties.Resources.resources
+C:\Users\aleksandr.chanov\source\repos\HiLow2SNConvert\HiLow2SNConvert\obj\Debug\HiLow2SNConvert.csproj.GenerateResource.Cache
+C:\Users\aleksandr.chanov\source\repos\HiLow2SNConvert\HiLow2SNConvert\obj\Debug\HiLow2SNConvert.csproj.CoreCompileInputs.cache
+C:\Users\aleksandr.chanov\source\repos\HiLow2SNConvert\HiLow2SNConvert\obj\Debug\HiLow2SNConvert.exe
+C:\Users\aleksandr.chanov\source\repos\HiLow2SNConvert\HiLow2SNConvert\obj\Debug\HiLow2SNConvert.pdb
+c:\Users\aleksandr.chanov\source\repos\HiLow2SNConvert — копия\HiLow2SNConvert\bin\Debug\HiLow2SNConvert.exe.config
+c:\Users\aleksandr.chanov\source\repos\HiLow2SNConvert — копия\HiLow2SNConvert\bin\Debug\HiLow2SNConvert.exe
+c:\Users\aleksandr.chanov\source\repos\HiLow2SNConvert — копия\HiLow2SNConvert\bin\Debug\HiLow2SNConvert.pdb
+c:\Users\aleksandr.chanov\source\repos\HiLow2SNConvert — копия\HiLow2SNConvert\obj\Debug\HiLow2SNConvert.csprojResolveAssemblyReference.cache
+c:\Users\aleksandr.chanov\source\repos\HiLow2SNConvert — копия\HiLow2SNConvert\obj\Debug\HiLow2SNConvert.Form1.resources
+c:\Users\aleksandr.chanov\source\repos\HiLow2SNConvert — копия\HiLow2SNConvert\obj\Debug\HiLow2SNConvert.Properties.Resources.resources
+c:\Users\aleksandr.chanov\source\repos\HiLow2SNConvert — копия\HiLow2SNConvert\obj\Debug\HiLow2SNConvert.csproj.GenerateResource.Cache
+c:\Users\aleksandr.chanov\source\repos\HiLow2SNConvert — копия\HiLow2SNConvert\obj\Debug\HiLow2SNConvert.csproj.CoreCompileInputs.cache
+c:\Users\aleksandr.chanov\source\repos\HiLow2SNConvert — копия\HiLow2SNConvert\obj\Debug\HiLow2SNConvert.exe
+c:\Users\aleksandr.chanov\source\repos\HiLow2SNConvert — копия\HiLow2SNConvert\obj\Debug\HiLow2SNConvert.pdb
+c:\Users\aleksandr.chanov\source\repos\HiLow2SNConvert — копия — копия\HiLow2SNConvert\bin\Debug\HiLow2SNConvert.exe.config
+c:\Users\aleksandr.chanov\source\repos\HiLow2SNConvert — копия — копия\HiLow2SNConvert\bin\Debug\HiLow2SNConvert.exe
+c:\Users\aleksandr.chanov\source\repos\HiLow2SNConvert — копия — копия\HiLow2SNConvert\bin\Debug\HiLow2SNConvert.pdb
+c:\Users\aleksandr.chanov\source\repos\HiLow2SNConvert — копия — копия\HiLow2SNConvert\obj\Debug\HiLow2SNConvert.csprojResolveAssemblyReference.cache
+c:\Users\aleksandr.chanov\source\repos\HiLow2SNConvert — копия — копия\HiLow2SNConvert\obj\Debug\HiLow2SNConvert.Form1.resources
+c:\Users\aleksandr.chanov\source\repos\HiLow2SNConvert — копия — копия\HiLow2SNConvert\obj\Debug\HiLow2SNConvert.Properties.Resources.resources
+c:\Users\aleksandr.chanov\source\repos\HiLow2SNConvert — копия — копия\HiLow2SNConvert\obj\Debug\HiLow2SNConvert.csproj.GenerateResource.Cache
+c:\Users\aleksandr.chanov\source\repos\HiLow2SNConvert — копия — копия\HiLow2SNConvert\obj\Debug\HiLow2SNConvert.csproj.CoreCompileInputs.cache
+c:\Users\aleksandr.chanov\source\repos\HiLow2SNConvert — копия — копия\HiLow2SNConvert\obj\Debug\HiLow2SNConvert.exe
+c:\Users\aleksandr.chanov\source\repos\HiLow2SNConvert — копия — копия\HiLow2SNConvert\obj\Debug\HiLow2SNConvert.pdb
+c:\Users\aleksandr.chanov\source\repos\HiLow2SNConvert — копия — копия — копия\HiLow2SNConvert\bin\Debug\HiLow2SNConvert.exe.config
+c:\Users\aleksandr.chanov\source\repos\HiLow2SNConvert — копия — копия — копия\HiLow2SNConvert\bin\Debug\HiLow2SNConvert.exe
+c:\Users\aleksandr.chanov\source\repos\HiLow2SNConvert — копия — копия — копия\HiLow2SNConvert\bin\Debug\HiLow2SNConvert.pdb
+c:\Users\aleksandr.chanov\source\repos\HiLow2SNConvert — копия — копия — копия\HiLow2SNConvert\obj\Debug\HiLow2SNConvert.csprojResolveAssemblyReference.cache
+c:\Users\aleksandr.chanov\source\repos\HiLow2SNConvert — копия — копия — копия\HiLow2SNConvert\obj\Debug\HiLow2SNConvert.Form1.resources
+c:\Users\aleksandr.chanov\source\repos\HiLow2SNConvert — копия — копия — копия\HiLow2SNConvert\obj\Debug\HiLow2SNConvert.Properties.Resources.resources
+c:\Users\aleksandr.chanov\source\repos\HiLow2SNConvert — копия — копия — копия\HiLow2SNConvert\obj\Debug\HiLow2SNConvert.csproj.GenerateResource.Cache
+c:\Users\aleksandr.chanov\source\repos\HiLow2SNConvert — копия — копия — копия\HiLow2SNConvert\obj\Debug\HiLow2SNConvert.csproj.CoreCompileInputs.cache
+c:\Users\aleksandr.chanov\source\repos\HiLow2SNConvert — копия — копия — копия\HiLow2SNConvert\obj\Debug\HiLow2SNConvert.exe
+c:\Users\aleksandr.chanov\source\repos\HiLow2SNConvert — копия — копия — копия\HiLow2SNConvert\obj\Debug\HiLow2SNConvert.pdb
+D:\C#\Projects\HiLow2SNConvert — копия — копия — копия\HiLow2SNConvert\bin\Debug\HiLow2SNConvert.exe.config
+D:\C#\Projects\HiLow2SNConvert — копия — копия — копия\HiLow2SNConvert\bin\Debug\HiLow2SNConvert.exe
+D:\C#\Projects\HiLow2SNConvert — копия — копия — копия\HiLow2SNConvert\bin\Debug\HiLow2SNConvert.pdb
+D:\C#\Projects\HiLow2SNConvert — копия — копия — копия\HiLow2SNConvert\obj\Debug\HiLow2SNConvert.csprojResolveAssemblyReference.cache
+D:\C#\Projects\HiLow2SNConvert — копия — копия — копия\HiLow2SNConvert\obj\Debug\HiLow2SNConvert.Form1.resources
+D:\C#\Projects\HiLow2SNConvert — копия — копия — копия\HiLow2SNConvert\obj\Debug\HiLow2SNConvert.Properties.Resources.resources
+D:\C#\Projects\HiLow2SNConvert — копия — копия — копия\HiLow2SNConvert\obj\Debug\HiLow2SNConvert.csproj.GenerateResource.Cache
+D:\C#\Projects\HiLow2SNConvert — копия — копия — копия\HiLow2SNConvert\obj\Debug\HiLow2SNConvert.csproj.CoreCompileInputs.cache
+D:\C#\Projects\HiLow2SNConvert — копия — копия — копия\HiLow2SNConvert\obj\Debug\HiLow2SNConvert.exe
+D:\C#\Projects\HiLow2SNConvert — копия — копия — копия\HiLow2SNConvert\obj\Debug\HiLow2SNConvert.pdb
+d:\Alex\C#\Projects\HiLow2SNConvert — копия — копия — копия - эксперименты с HDLC\HiLow2SNConvert\bin\Debug\HiLow2SNConvert.exe.config
+d:\Alex\C#\Projects\HiLow2SNConvert — копия — копия — копия - эксперименты с HDLC\HiLow2SNConvert\bin\Debug\HiLow2SNConvert.exe
+d:\Alex\C#\Projects\HiLow2SNConvert — копия — копия — копия - эксперименты с HDLC\HiLow2SNConvert\bin\Debug\HiLow2SNConvert.pdb
+d:\Alex\C#\Projects\HiLow2SNConvert — копия — копия — копия - эксперименты с HDLC\HiLow2SNConvert\obj\Debug\HiLow2SNConvert.csprojResolveAssemblyReference.cache
+d:\Alex\C#\Projects\HiLow2SNConvert — копия — копия — копия - эксперименты с HDLC\HiLow2SNConvert\obj\Debug\HiLow2SNConvert.Form1.resources
+d:\Alex\C#\Projects\HiLow2SNConvert — копия — копия — копия - эксперименты с HDLC\HiLow2SNConvert\obj\Debug\HiLow2SNConvert.Properties.Resources.resources
+d:\Alex\C#\Projects\HiLow2SNConvert — копия — копия — копия - эксперименты с HDLC\HiLow2SNConvert\obj\Debug\HiLow2SNConvert.csproj.GenerateResource.Cache
+d:\Alex\C#\Projects\HiLow2SNConvert — копия — копия — копия - эксперименты с HDLC\HiLow2SNConvert\obj\Debug\HiLow2SNConvert.csproj.CoreCompileInputs.cache
+d:\Alex\C#\Projects\HiLow2SNConvert — копия — копия — копия - эксперименты с HDLC\HiLow2SNConvert\obj\Debug\HiLow2SNConvert.exe
+d:\Alex\C#\Projects\HiLow2SNConvert — копия — копия — копия - эксперименты с HDLC\HiLow2SNConvert\obj\Debug\HiLow2SNConvert.pdb
+C:\Users\aleksandr.chanov\Desktop\HDLC\HiLow2SNConvert - эксперименты с HDLC\HiLow2SNConvert\obj\Debug\HiLow2SNConvert.csprojResolveAssemblyReference.cache
+C:\Users\aleksandr.chanov\Desktop\HDLC\HiLow2SNConvert - эксперименты с HDLC\HiLow2SNConvert\obj\Debug\HiLow2SNConvert.Form1.resources
+C:\Users\aleksandr.chanov\Desktop\HDLC\HiLow2SNConvert - эксперименты с HDLC\HiLow2SNConvert\obj\Debug\HiLow2SNConvert.Properties.Resources.resources
+C:\Users\aleksandr.chanov\Desktop\HDLC\HiLow2SNConvert - эксперименты с HDLC\HiLow2SNConvert\obj\Debug\HiLow2SNConvert.csproj.GenerateResource.Cache
+C:\Users\aleksandr.chanov\Desktop\HDLC\HiLow2SNConvert - эксперименты с HDLC\HiLow2SNConvert\obj\Debug\HiLow2SNConvert.csproj.CoreCompileInputs.cache
+C:\Users\aleksandr.chanov\Desktop\HDLC\HiLow2SNConvert - эксперименты с HDLC\HiLow2SNConvert\obj\Debug\HiLow2SNConvert.exe
+C:\Users\aleksandr.chanov\Desktop\HDLC\HiLow2SNConvert - эксперименты с HDLC\HiLow2SNConvert\obj\Debug\HiLow2SNConvert.pdb
+C:\Users\aleksandr.chanov\Desktop\HDLC\HiLow2SNConvert - эксперименты с HDLC\HiLow2SNConvert\bin\Debug\HiLow2SNConvert.exe.config
+C:\Users\aleksandr.chanov\Desktop\HDLC\HiLow2SNConvert - эксперименты с HDLC\HiLow2SNConvert\bin\Debug\HiLow2SNConvert.exe
+C:\Users\aleksandr.chanov\Desktop\HDLC\HiLow2SNConvert - эксперименты с HDLC\HiLow2SNConvert\bin\Debug\HiLow2SNConvert.pdb
+C:\Users\aleksandr.chanov\Desktop\HDLC\HiLow2SNConvert - HDLC\HiLow2SNConvert\bin\Debug\HiLow2SNConvert.exe.config
+C:\Users\aleksandr.chanov\Desktop\HDLC\HiLow2SNConvert - HDLC\HiLow2SNConvert\bin\Debug\HiLow2SNConvert.exe
+C:\Users\aleksandr.chanov\Desktop\HDLC\HiLow2SNConvert - HDLC\HiLow2SNConvert\bin\Debug\HiLow2SNConvert.pdb
+C:\Users\aleksandr.chanov\Desktop\HDLC\HiLow2SNConvert - HDLC\HiLow2SNConvert\obj\Debug\HiLow2SNConvert.csprojResolveAssemblyReference.cache
+C:\Users\aleksandr.chanov\Desktop\HDLC\HiLow2SNConvert - HDLC\HiLow2SNConvert\obj\Debug\HiLow2SNConvert.Form1.resources
+C:\Users\aleksandr.chanov\Desktop\HDLC\HiLow2SNConvert - HDLC\HiLow2SNConvert\obj\Debug\HiLow2SNConvert.Properties.Resources.resources
+C:\Users\aleksandr.chanov\Desktop\HDLC\HiLow2SNConvert - HDLC\HiLow2SNConvert\obj\Debug\HiLow2SNConvert.csproj.GenerateResource.Cache
+C:\Users\aleksandr.chanov\Desktop\HDLC\HiLow2SNConvert - HDLC\HiLow2SNConvert\obj\Debug\HiLow2SNConvert.csproj.CoreCompileInputs.cache
+C:\Users\aleksandr.chanov\Desktop\HDLC\HiLow2SNConvert - HDLC\HiLow2SNConvert\obj\Debug\HiLow2SNConvert.exe
+C:\Users\aleksandr.chanov\Desktop\HDLC\HiLow2SNConvert - HDLC\HiLow2SNConvert\obj\Debug\HiLow2SNConvert.pdb

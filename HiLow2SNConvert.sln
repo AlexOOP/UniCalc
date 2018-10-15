@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HiLow2SNConvert", "HiLow2SNConvert\HiLow2SNConvert.csproj", "{950CE02D-0678-4684-BA11-78545E351833}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{950CE02D-0678-4684-BA11-78545E351833}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{950CE02D-0678-4684-BA11-78545E351833}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{950CE02D-0678-4684-BA11-78545E351833}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{950CE02D-0678-4684-BA11-78545E351833}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {56CBAD94-1162-4D9F-8AE1-4A09E2DD61A7}
+	EndGlobalSection
+EndGlobal

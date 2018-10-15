@@ -1,0 +1,32 @@
+startSerNumb = 262160
+endSerNumb = 100007935
+step = 16384
+startHi = 16 
+endHi = 6104
+startLow = 16
+endLow = 16383
+inputHi
+inputLow
+
+20.12233
+
+x = 16384*(20-16) + 262160 + (12233-16)=
+=> 262160 + 278528 + 12217
+
+x = step * (inputHi - startHi) + startSerNumb + (inputLow - startLow)
+
+
+
+
+sernumb = inputLow + 16384 (15 раз)
+
+
+
+for (i = 16; i=i+16384; i < 262160)
+
+262143 
+16383
+20
+16
+
+
