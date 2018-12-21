@@ -12,10 +12,9 @@ namespace HiLow2SNConvert
       InitializeComponent();
     }
 
-    int startSerNumb = 262160;
     int step = 16384;
     int startHi = 16;
-    int endHi = 550371327;
+    int endHi = 16383;
     int startLow = 16;
     int endLow = 16383;
     int inputHi;
@@ -24,12 +23,15 @@ namespace HiLow2SNConvert
     List<int> SerialList = new List<int>();
     ushort HdlcHi = 0;
     ushort HdlcLow = 1;
+    public int soughtSerial;
+    FixedValues fixedValues = new FixedValues();
 
     /* 
      * textBox1 - hi, textBox2 - low, textBox3 - SN, textBox5 - hexHi, textBox6 - hexLow
      * textBox4 - hdlcHi, textBox7 - hdlcLow;
      * radioButton1 - hiLow, radioButton2 - SN, radioButton3 - hex, radioButton4 - hdlc.
      * int endSerNumb = 2147483647;
+     * Расчёт серийника из Hi Low работает в пределах от 0 до 1074003967 (8223.16383), если закоментировать 193-ю строку
     */
 
     // очистка всех текстбоксов
@@ -90,6 +92,11 @@ namespace HiLow2SNConvert
       textBox5.Text = Convert.ToString(inHiRes, 16);
       textBox6.Text = Convert.ToString(inLowRes, 16);
     }
+    // метод расчёта всех возможных серийников из Hi Low
+    public int SpecialCountSerialFromHiLow(int primaryKeyDict, int firstValueDict)
+    {
+      return soughtSerial = firstValueDict + ((inputHi - primaryKeyDict) * step + (inputLow - startLow));
+    }
 
     // алгоритм расчёта из HI LOW -> Serial Number
     private void HiLow2SN()
@@ -102,30 +109,128 @@ namespace HiLow2SNConvert
         {
           inputLow = Math.Abs(Convert.ToInt32(textBox2.Text));
 
-          // алгоритм расчёта серийных номеров до 262143 (где hi 8192)
-          if (inputHi == 8192)
+          if (inputHi >= 8208 && inputHi <= 8223 && inputLow >= 16 && inputLow <= 16383)
           {
-            textBox3.Multiline = true;
-            for (int j = 0; j < 16; j++)
-            {
-              SerialList.Add(inputLow);
-              inputLow = inputLow + step;
-            }
+            SpecialCountSerialFromHiLow(fixedValues.primaryKeyDict_20, fixedValues.firstValueDict_20);
+            SerialList.Add(soughtSerial);
+            SpecialCountSerialFromHiLow(fixedValues.primaryKeyDict_22, fixedValues.firstValueDict_22);
+            SerialList.Add(soughtSerial);
+            SpecialCountSerialFromHiLow(fixedValues.primaryKeyDict_24, fixedValues.firstValueDict_24);
+            SerialList.Add(soughtSerial);
+            SpecialCountSerialFromHiLow(fixedValues.primaryKeyDict_26, fixedValues.firstValueDict_26);
+            SerialList.Add(soughtSerial);
+            SpecialCountSerialFromHiLow(fixedValues.primaryKeyDict_28, fixedValues.firstValueDict_28);
+            SerialList.Add(soughtSerial);
+          }
 
-            StringBuilder builder = new StringBuilder();
+          if (inputHi >= 16 && inputHi <= 16383 && inputLow >= 16 && inputLow <= 16383)
+          {
+            SpecialCountSerialFromHiLow(fixedValues.primaryKeyDict_21, fixedValues.firstValueDict_21);
+            SerialList.Add(soughtSerial);
+            SpecialCountSerialFromHiLow(fixedValues.primaryKeyDict_23, fixedValues.firstValueDict_23);
+            SerialList.Add(soughtSerial);
+            SpecialCountSerialFromHiLow(fixedValues.primaryKeyDict_25, fixedValues.firstValueDict_25);
+            SerialList.Add(soughtSerial);
+            SpecialCountSerialFromHiLow(fixedValues.primaryKeyDict_27, fixedValues.firstValueDict_27);
+            SerialList.Add(soughtSerial);
+          }
 
-            foreach (int item in SerialList)
-            {
-              builder.Append(item).Append("; ");
-            }
+          if (inputHi >= 4096 && inputHi <= 8191 && inputLow >= 16 && inputLow <= 31)
+          {
+            SpecialCountSerialFromHiLow(fixedValues.primaryKeyDict_3, fixedValues.firstValueDict_3);
+            SerialList.Add(soughtSerial);
+            SpecialCountSerialFromHiLow(fixedValues.primaryKeyDict_8, fixedValues.firstValueDict_8);
+            SerialList.Add(soughtSerial);
+            SpecialCountSerialFromHiLow(fixedValues.primaryKeyDict_13, fixedValues.firstValueDict_13);
+            SerialList.Add(soughtSerial);
+            SpecialCountSerialFromHiLow(fixedValues.primaryKeyDict_18, fixedValues.firstValueDict_18);
+            SerialList.Add(soughtSerial);
+          }
 
-            pluralSerialShow = builder.ToString();
-            MessageBox.Show(pluralSerialShow, "Список возможных серийных номеров:");
+          if (inputHi >= 4112 && inputHi <= 8191 && inputLow >= 16 && inputLow <= 31)
+          {
+            SpecialCountSerialFromHiLow(fixedValues.primaryKeyDict_2, fixedValues.firstValueDict_2);
+            SerialList.Add(soughtSerial);
+            SpecialCountSerialFromHiLow(fixedValues.primaryKeyDict_7, fixedValues.firstValueDict_7);
+            SerialList.Add(soughtSerial);
+            SpecialCountSerialFromHiLow(fixedValues.primaryKeyDict_12, fixedValues.firstValueDict_12);
+            SerialList.Add(soughtSerial);
+            SpecialCountSerialFromHiLow(fixedValues.primaryKeyDict_17, fixedValues.firstValueDict_17);
+            SerialList.Add(soughtSerial);
+          }
+
+          if (inputHi >= 12304 && inputHi <= 12319 && inputLow >= 16 && inputLow <= 31)
+          {
+            SpecialCountSerialFromHiLow(fixedValues.primaryKeyDict_1, fixedValues.firstValueDict_1);
+            SerialList.Add(soughtSerial);
+            SpecialCountSerialFromHiLow(fixedValues.primaryKeyDict_6, fixedValues.firstValueDict_6);
+            SerialList.Add(soughtSerial);
+            SpecialCountSerialFromHiLow(fixedValues.primaryKeyDict_11, fixedValues.firstValueDict_11);
+            SerialList.Add(soughtSerial);
+            SpecialCountSerialFromHiLow(fixedValues.primaryKeyDict_16, fixedValues.firstValueDict_16);
+            SerialList.Add(soughtSerial);
+          }
+
+          if (inputHi >= 12288 && inputHi <= 16383 && inputLow >= 16 && inputLow <= 31)
+          {
+            SpecialCountSerialFromHiLow(fixedValues.primaryKeyDict_4, fixedValues.firstValueDict_4);
+            SerialList.Add(soughtSerial);
+            SpecialCountSerialFromHiLow(fixedValues.primaryKeyDict_5, fixedValues.firstValueDict_5);
+            SerialList.Add(soughtSerial);
+            SpecialCountSerialFromHiLow(fixedValues.primaryKeyDict_9, fixedValues.firstValueDict_9);
+            SerialList.Add(soughtSerial);
+            SpecialCountSerialFromHiLow(fixedValues.primaryKeyDict_10, fixedValues.firstValueDict_10);
+            SerialList.Add(soughtSerial);
+            SpecialCountSerialFromHiLow(fixedValues.primaryKeyDict_14, fixedValues.firstValueDict_14);
+            SerialList.Add(soughtSerial);
+            SpecialCountSerialFromHiLow(fixedValues.primaryKeyDict_15, fixedValues.firstValueDict_15);
+            SerialList.Add(soughtSerial);
+            SpecialCountSerialFromHiLow(fixedValues.primaryKeyDict_19, fixedValues.firstValueDict_19);
+            SerialList.Add(soughtSerial);
+          }
+
+          SerialList.Sort();
+
+          if (serialUnder8tsmi.Checked)
+          {
+            SerialList.RemoveAll(item => item > 99999999);
+          }
+          else
+          {
+            SerialList.RemoveAll(item => item > 1074003967);
+          }
+
+          StringBuilder builder = new StringBuilder();
+
+          foreach (int item in SerialList)
+          {
+            builder.Append(item).Append("; ");
+          }
+
+          pluralSerialShow = builder.ToString();
+
+          if (SerialList.Count > 1 && serialUnder8tsmi.Checked)
+          {
+            MessageBox.Show(pluralSerialShow, "Список возможных серийных номеров до 99 999 999:");
+            SerialList.Clear();
+            textBox3.Clear();
+          }
+          if (SerialList.Count > 1 && serialUnder10tsmi.Checked)
+          {
+            MessageBox.Show(pluralSerialShow, "Список возможных серийных номеров до 1 074 003 967:");
+            SerialList.Clear();
+            textBox3.Clear();
+          }
+          else
+          {
+            pluralSerialShow = pluralSerialShow.Replace(";", "");
+            textBox3.Text = pluralSerialShow.ToString();
+            SerialList.Clear();
           }
 
           if (inputHi > endHi)
           {
-            MessageBox.Show("Введите число до 550371327!");
+            MessageBox.Show("Введите число до 16383!");
             AllTextBoxClear();
           }
 
@@ -148,12 +253,12 @@ namespace HiLow2SNConvert
       }
       catch (OverflowException)
       {
-        MessageBox.Show("Введите число до 550371327!");
+        MessageBox.Show("Введите число до 16383!");
         AllTextBoxClear();
       }
 
       // алгоритм расчёта серийных номеров от 262160
-      textBox3.Text = (step * (inputHi - startHi) + startSerNumb + (inputLow - startLow)).ToString();
+      //      textBox3.Text = (step * (inputHi - startHi) + startSerNumb + (inputLow - startLow)).ToString();
       textBox5.Text = Convert.ToString(inputHi, 16);
       textBox6.Text = Convert.ToString(inputLow, 16);
       Hex2Hdlc();
@@ -201,8 +306,8 @@ namespace HiLow2SNConvert
 
     private void Serial2HiLow()
     {
-      int HI = 0;
-      int LOW = 0;
+      ulong HI = 0;
+      ulong LOW = 0;
 
       try
       {
@@ -222,7 +327,64 @@ namespace HiLow2SNConvert
         AllTextBoxClear();
       }
 
-      try
+      if ((String.IsNullOrWhiteSpace(Convert.ToString(textBox3.Text))))
+      {
+        MessageBox.Show("Введите значения для выбранных полей!");
+        textBox3.Text = "0";
+      }
+      ulong short_serial = UInt64.Parse(textBox3.Text);
+
+      bool isNewAlgorithm = true;
+      if ((short_serial & 0x1000) == 0)
+      {
+        if (short_serial == 0x2000)
+        {
+          isNewAlgorithm = false;
+        }
+      }
+
+      // доработанный алгоритм расчёта определённых диапазонов Hi Low из серийников
+
+      if (short_serial == 0x2000)
+      {
+        isNewAlgorithm = false;
+      }
+
+      if (!isNewAlgorithm)
+      {
+        HI = (short_serial & 0x3FFF) < 16 ? short_serial = (1 << 13) : short_serial & 0x3FFF;
+        LOW = ((short_serial >> 14) & 0x3FFF) < 16 ? (1 << 13) : (short_serial >> 14) & 0x3FFF;
+      }
+      else
+      {
+        HI = 0;
+        LOW = short_serial & 0x3FFF;
+
+        if ((short_serial & 0x3FFF) < 16)
+        {
+          LOW += 16;
+          HI |= (1 << 12);
+        }
+        else
+        {
+          LOW = short_serial & 0x3FFF;
+        }
+
+        if (((short_serial >> 14) & 0x3FFF) < 16)
+        {
+          HI += ((short_serial >> 14) & 0x3FFF) + 16;
+          HI |= (1 << 13);
+        }
+        else
+        {
+          HI |= (short_serial >> 14) & 0x3FFF;
+        }
+      }
+
+      textBox1.Text = HI.ToString();
+      textBox2.Text = LOW.ToString();
+
+      /*try
       {
         HI = Math.Abs(Serial2Hi(UInt64.Parse(textBox3.Text)));
         textBox1.Text = HI.ToString();
@@ -234,10 +396,10 @@ namespace HiLow2SNConvert
         LOW = Math.Abs(Serial2Lo(UInt64.Parse(textBox3.Text)));
         textBox2.Text = LOW.ToString();
       }
-      catch { }
+      catch { }*/
 
-      textBox5.Text = Convert.ToString(HI, 16);
-      textBox6.Text = Convert.ToString(LOW, 16);
+      textBox5.Text = Convert.ToString((int)HI, 16);
+      textBox6.Text = Convert.ToString((int)LOW, 16);
       Hex2Hdlc();
     }
 
@@ -272,7 +434,6 @@ namespace HiLow2SNConvert
         HiLow2SN();
       }
     }
-
     // Правила для радиокнопок
     private void radioButton1_CheckedChanged(object sender, EventArgs e)
     {
@@ -312,6 +473,22 @@ namespace HiLow2SNConvert
         textBox4.Focus();
         TextBoxFocused();
       }
+    }
+
+    private void serialUnder8tsmi_Click(object sender, EventArgs e)
+    {
+      if (serialUnder8tsmi.Checked)
+      { serialUnder10tsmi.Checked = false; }
+      if (serialUnder10tsmi.Checked == false)
+      { serialUnder8tsmi.Checked = true; }
+    }
+
+    private void serialUnder10tsmi_Click(object sender, EventArgs e)
+    {
+      if (serialUnder10tsmi.Checked)
+      { serialUnder8tsmi.Checked = false; }
+      if (serialUnder8tsmi.Checked == false)
+      { serialUnder10tsmi.Checked = true; }
     }
 
     // Правила для текстбоксов

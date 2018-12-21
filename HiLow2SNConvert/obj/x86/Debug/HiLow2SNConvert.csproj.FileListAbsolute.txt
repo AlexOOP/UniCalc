@@ -1,0 +1,39 @@
+D:\WORK\Project\Projects\HiLow2SNConvert - HDLC\HiLow2SNConvert\obj\x86\Debug\HiLow2SNConvert.csprojAssemblyReference.cache
+D:\WORK\Project\Projects\HiLow2SNConvert - HDLC\HiLow2SNConvert\obj\x86\Debug\HiLow2SNConvert.Form1.resources
+D:\WORK\Project\Projects\HiLow2SNConvert - HDLC\HiLow2SNConvert\obj\x86\Debug\HiLow2SNConvert.Properties.Resources.resources
+D:\WORK\Project\Projects\HiLow2SNConvert - HDLC\HiLow2SNConvert\obj\x86\Debug\HiLow2SNConvert.csproj.GenerateResource.cache
+D:\WORK\Project\Projects\HiLow2SNConvert - HDLC\HiLow2SNConvert\obj\x86\Debug\HiLow2SNConvert.csproj.CoreCompileInputs.cache
+D:\WORK\Project\Projects\HiLow2SNConvert - HDLC\HiLow2SNConvert\bin\x86\Debug\HiLow2SNConvert.exe.config
+D:\WORK\Project\Projects\HiLow2SNConvert - HDLC\HiLow2SNConvert\bin\x86\Debug\HiLow2SNConvert.exe
+D:\WORK\Project\Projects\HiLow2SNConvert - HDLC\HiLow2SNConvert\bin\x86\Debug\HiLow2SNConvert.pdb
+D:\WORK\Project\Projects\HiLow2SNConvert - HDLC\HiLow2SNConvert\obj\x86\Debug\HiLow2SNConvert.exe
+D:\WORK\Project\Projects\HiLow2SNConvert - HDLC\HiLow2SNConvert\obj\x86\Debug\HiLow2SNConvert.pdb
+C:\Users\aleksandr.chanov\Desktop\HDLC\Доработанный алгоритм\HiLow2SNConvert - HDLC\HiLow2SNConvert\bin\x86\Debug\HiLow2SNConvert.exe.config
+C:\Users\aleksandr.chanov\Desktop\HDLC\Доработанный алгоритм\HiLow2SNConvert - HDLC\HiLow2SNConvert\bin\x86\Debug\HiLow2SNConvert.exe
+C:\Users\aleksandr.chanov\Desktop\HDLC\Доработанный алгоритм\HiLow2SNConvert - HDLC\HiLow2SNConvert\bin\x86\Debug\HiLow2SNConvert.pdb
+C:\Users\aleksandr.chanov\Desktop\HDLC\Доработанный алгоритм\HiLow2SNConvert - HDLC\HiLow2SNConvert\obj\x86\Debug\HiLow2SNConvert.csprojAssemblyReference.cache
+C:\Users\aleksandr.chanov\Desktop\HDLC\Доработанный алгоритм\HiLow2SNConvert - HDLC\HiLow2SNConvert\obj\x86\Debug\HiLow2SNConvert.Form1.resources
+C:\Users\aleksandr.chanov\Desktop\HDLC\Доработанный алгоритм\HiLow2SNConvert - HDLC\HiLow2SNConvert\obj\x86\Debug\HiLow2SNConvert.Properties.Resources.resources
+C:\Users\aleksandr.chanov\Desktop\HDLC\Доработанный алгоритм\HiLow2SNConvert - HDLC\HiLow2SNConvert\obj\x86\Debug\HiLow2SNConvert.csproj.GenerateResource.cache
+C:\Users\aleksandr.chanov\Desktop\HDLC\Доработанный алгоритм\HiLow2SNConvert - HDLC\HiLow2SNConvert\obj\x86\Debug\HiLow2SNConvert.csproj.CoreCompileInputs.cache
+C:\Users\aleksandr.chanov\Desktop\HDLC\Доработанный алгоритм\HiLow2SNConvert - HDLC\HiLow2SNConvert\obj\x86\Debug\HiLow2SNConvert.exe
+C:\Users\aleksandr.chanov\Desktop\HDLC\Доработанный алгоритм\HiLow2SNConvert - HDLC\HiLow2SNConvert\obj\x86\Debug\HiLow2SNConvert.pdb
+C:\Users\aleksandr.chanov\Desktop\HDLC\Доработанный алгоритм\HiLow2SNConvert - HDLC - доработка обратного расчёта\HiLow2SNConvert\bin\x86\Debug\HiLow2SNConvert.exe.config
+C:\Users\aleksandr.chanov\Desktop\HDLC\Доработанный алгоритм\HiLow2SNConvert - HDLC - доработка обратного расчёта\HiLow2SNConvert\bin\x86\Debug\HiLow2SNConvert.exe
+C:\Users\aleksandr.chanov\Desktop\HDLC\Доработанный алгоритм\HiLow2SNConvert - HDLC - доработка обратного расчёта\HiLow2SNConvert\bin\x86\Debug\HiLow2SNConvert.pdb
+C:\Users\aleksandr.chanov\Desktop\HDLC\Доработанный алгоритм\HiLow2SNConvert - HDLC - доработка обратного расчёта\HiLow2SNConvert\obj\x86\Debug\HiLow2SNConvert.Form1.resources
+C:\Users\aleksandr.chanov\Desktop\HDLC\Доработанный алгоритм\HiLow2SNConvert - HDLC - доработка обратного расчёта\HiLow2SNConvert\obj\x86\Debug\HiLow2SNConvert.Properties.Resources.resources
+C:\Users\aleksandr.chanov\Desktop\HDLC\Доработанный алгоритм\HiLow2SNConvert - HDLC - доработка обратного расчёта\HiLow2SNConvert\obj\x86\Debug\HiLow2SNConvert.csproj.GenerateResource.cache
+C:\Users\aleksandr.chanov\Desktop\HDLC\Доработанный алгоритм\HiLow2SNConvert - HDLC - доработка обратного расчёта\HiLow2SNConvert\obj\x86\Debug\HiLow2SNConvert.csproj.CoreCompileInputs.cache
+C:\Users\aleksandr.chanov\Desktop\HDLC\Доработанный алгоритм\HiLow2SNConvert - HDLC - доработка обратного расчёта\HiLow2SNConvert\obj\x86\Debug\HiLow2SNConvert.exe
+C:\Users\aleksandr.chanov\Desktop\HDLC\Доработанный алгоритм\HiLow2SNConvert - HDLC - доработка обратного расчёта\HiLow2SNConvert\obj\x86\Debug\HiLow2SNConvert.pdb
+C:\Users\aleksandr.chanov\Desktop\HDLC\Доработанный алгоритм\HiLow2SNConvert - HDLC - доработка обратного расчёта\HiLow2SNConvert\obj\x86\Debug\HiLow2SNConvert.csprojAssemblyReference.cache
+C:\Users\aleksandr.chanov\Desktop\HDLC\Доработанный алгоритм\HiLow2SNConvert - HDLC - доработка обратного расчёта + menu strip\HiLow2SNConvert\bin\x86\Debug\HiLow2SNConvert.exe.config
+C:\Users\aleksandr.chanov\Desktop\HDLC\Доработанный алгоритм\HiLow2SNConvert - HDLC - доработка обратного расчёта + menu strip\HiLow2SNConvert\bin\x86\Debug\HiLow2SNConvert.exe
+C:\Users\aleksandr.chanov\Desktop\HDLC\Доработанный алгоритм\HiLow2SNConvert - HDLC - доработка обратного расчёта + menu strip\HiLow2SNConvert\bin\x86\Debug\HiLow2SNConvert.pdb
+C:\Users\aleksandr.chanov\Desktop\HDLC\Доработанный алгоритм\HiLow2SNConvert - HDLC - доработка обратного расчёта + menu strip\HiLow2SNConvert\obj\x86\Debug\HiLow2SNConvert.Form1.resources
+C:\Users\aleksandr.chanov\Desktop\HDLC\Доработанный алгоритм\HiLow2SNConvert - HDLC - доработка обратного расчёта + menu strip\HiLow2SNConvert\obj\x86\Debug\HiLow2SNConvert.Properties.Resources.resources
+C:\Users\aleksandr.chanov\Desktop\HDLC\Доработанный алгоритм\HiLow2SNConvert - HDLC - доработка обратного расчёта + menu strip\HiLow2SNConvert\obj\x86\Debug\HiLow2SNConvert.csproj.GenerateResource.cache
+C:\Users\aleksandr.chanov\Desktop\HDLC\Доработанный алгоритм\HiLow2SNConvert - HDLC - доработка обратного расчёта + menu strip\HiLow2SNConvert\obj\x86\Debug\HiLow2SNConvert.csproj.CoreCompileInputs.cache
+C:\Users\aleksandr.chanov\Desktop\HDLC\Доработанный алгоритм\HiLow2SNConvert - HDLC - доработка обратного расчёта + menu strip\HiLow2SNConvert\obj\x86\Debug\HiLow2SNConvert.exe
+C:\Users\aleksandr.chanov\Desktop\HDLC\Доработанный алгоритм\HiLow2SNConvert - HDLC - доработка обратного расчёта + menu strip\HiLow2SNConvert\obj\x86\Debug\HiLow2SNConvert.pdb
